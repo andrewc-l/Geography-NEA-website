@@ -1,3 +1,24 @@
 p {
     color: red;
+    text-align: center;
   }
+h4 {
+    color:aqua; font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: chartreuse;
+    font: bold;
+}
+
+header {
+    padding: 100px;
+    text-align: center;
+    background: #1aff;
+    color:chartreuse;
+    font-family: "san-serif";
+}
+
+body {background-color: bisque;
+}
